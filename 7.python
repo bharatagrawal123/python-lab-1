@@ -1,0 +1,6 @@
+length=3
+breadth=4
+area=length*breadth
+peri=2*(length+breadth)
+print(area,peri)
+
